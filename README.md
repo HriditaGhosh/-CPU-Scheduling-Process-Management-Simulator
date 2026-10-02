@@ -1,4 +1,4 @@
-# DSA Workbench-### CPU Scheduling & Process Management Simulator
+# DSA Workbench- CPU Scheduling & Process Management Simulator
 
 **DSA Workbench** is a C++ console-based project that applies fundamental **Data Structures and Algorithms** to a practical CPU scheduling and process management system.
 
