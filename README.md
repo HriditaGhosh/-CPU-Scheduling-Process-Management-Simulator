@@ -39,6 +39,10 @@
 **Graph:** BFS, DFS, Topological Sort
 **Scheduling:** FCFS, Round Robin, Priority Scheduling
 
+## Project detailsand flowchart:
+
+<img width="1312" height="1199" alt="56de0301-5b0d-4e45-82f7-2fbe8d169273" src="https://github.com/user-attachments/assets/2a1fd799-d521-4f6a-9b10-abc812f4e322" />
+
 ## 🛠️ Tech Stack
 
 * **Language:** C++
